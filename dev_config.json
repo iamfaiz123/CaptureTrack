@@ -1,0 +1,11 @@
+{
+    "application_host": "127.0.0.1",
+    "application_port": 3000,
+    "database":{
+        "port":5432,
+        "host":"postgres://admin:9qyfuKsHxdiSfIXCKICtIE9EZBN04MO6@dpg-cip3mbl9aq0dcpvldf8g-a.singapore-postgres.render.com/capturetrack",
+        "password":"9qyfuKsHxdiSfIXCKICtIE9EZBN04MO6",
+        "name":"capturetrack",
+        "connection_url":"postgres://admin:9qyfuKsHxdiSfIXCKICtIE9EZBN04MO6@dpg-cip3mbl9aq0dcpvldf8g-a.singapore-postgres.render.com/capturetrack"
+    }
+}
